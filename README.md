@@ -1,5 +1,5 @@
 # Keyboard pinouts
 
-Here is some keyboard laptop pinouts for projects.
+Here is some laptop keyboard pinouts for projects.
 
 So, enjoy!
